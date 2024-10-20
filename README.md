@@ -1,3 +1,5 @@
+![79ou9i Logo](./logo.svg)
+
 # 79ou9i: Smart Legal Assistance for Workers & Small Business Owners
 
 Welcome to the **79ou9i** project! This app is designed to simplify legal and bureaucratic processes for *Tunisian workers* and *small business owners*. With advanced AI tools like Large Language Models (LLMs) and a Retrieval-Augmented Generation (RAG) system, 79ou9i provides essential support for navigating workplace rights, legal documents, and connecting with experts.
