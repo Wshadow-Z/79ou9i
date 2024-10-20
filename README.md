@@ -8,7 +8,7 @@ Welcome to the **79ou9i** project! This app is designed to simplify legal and bu
    - **Understand Labor Laws**: The chatbot helps workers in Tunisia understand their rights as per the *Tunisian Labor Code* (قانون الشغل التونسي) and other relevant frameworks, including the *Social Security Code* (القانون الأساسي للضمان الاجتماعي).
    - **Access to Legal Documents**: Workers can quickly access legal documents such as workplace safety laws (قانون الصحة والسلامة المهنية), anti-discrimination laws (قانون مناهضة التمييز), and collective employment agreements (اتفاقيات الشغل المشتركة).
    - **Legal Rulings Insights**: The chatbot offers legal guidance by analyzing *Cassation Court rulings* (أحكام محكمة التعقيب), helping users understand possible outcomes in labor disputes.
-   - **Bureaucratic Assistance**: It guides workers through the complexities of paperwork, employment contracts, and social security claims.
+   
 
 ### 2. **Small Business Owner Support**
    - **Filling Legal Forms**: Assists small business owners with completing important legal documents such as company registration, tax forms, and employment contracts.
