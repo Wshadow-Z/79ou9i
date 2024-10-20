@@ -1,4 +1,4 @@
-![79ou9i Logo](./logo.svg)
+![79ou9i Logo](./img/logo.svg)
 
 # 79ou9i: Smart Legal Assistance for Workers & Small Business Owners
 
