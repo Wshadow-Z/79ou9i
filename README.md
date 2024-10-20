@@ -33,6 +33,8 @@ Welcome to the **79ou9i** project! This app is designed to simplify legal and bu
 - **Gradio**: Builds an interactive interface for communicating with the AI chatbot.
 - **MongoDB**: Stores user interactions, legal documents, and other relevant data, ensuring a reliable and scalable backend.
 
+The **79ou9i** app was developed using a combination of modern web development tools and programming languages. The frontend was built with **HTML**, **CSS**, and **JavaScript** to create an intuitive and responsive user interface. For backend functionalities and AI integration, **Python** was used alongside frameworks like **Flask** and **Langchain**. The app also utilizes APIs like **OpenAI** and **Google Maps** to provide natural language processing and location-based services. Additionally, **MongoDB** was implemented to securely store user data and interactions.
+
 ## Installation
 
 To get started with 79ou9i:
