@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#map {
+    height: 400px;
+    width: 100%;
+}
+
+#avocat-list {
+    list-style: none;
+    padding: 20px;
+}
+
+.avocat {
+    border-bottom: 1px solid #ccc;
+    padding: 10px;
+    cursor: pointer;
+}

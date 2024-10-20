@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Avocat</title>
+    <!-- Lien vers le fichier CSS -->
+    <link rel="stylesheet" href="ContactAvocatstyles.css">
+</head>
+<body>
+    <!-- Carte Google Maps -->
+    <div id="map" style="width: 100%; height: 400px;"></div>
+
+    <!-- Liste des avocats -->
+    <ul id="avocat-list"></ul>
+
+    <!-- Chargement de l'API Google Maps avec ta clé API -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap" async defer></script>
+
+    <!-- Lien vers ton fichier JavaScript -->
+    <script src="ContactAvocatscriptes.js"></script>
+</body>
+</html>

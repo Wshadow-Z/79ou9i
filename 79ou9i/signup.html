@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>S'inscrire sur 79ou9i</title>
+    <link rel="stylesheet" href="signupstyles.css">
+</head>
+<body>
+    <div class="signup-container">
+        <img src="img/logo.svg" alt="Logo 79ou9i" class="logo">
+        <h2>S'inscrire sur 79ou9i</h2>
+        <form id="signupForm">
+            <input type="text" placeholder="Nom & Prénom" required>
+            <input type="password" placeholder="Mot de passe" required>
+            <input type="email" placeholder="Adresse mail" required>
+            <input type="text" placeholder="Région" required>
+            <input type="date" placeholder="Date de naissance" required>
+            
+            <label for="status">Je suis un(e)...</label>
+            <select id="status" required>
+                <option value="employe">Employé(e)</option>
+                <option value="etudiant">Étudiant(e)</option>
+                <option value="autre">Autre</option>
+            </select>
+            
+            <label for="forfait">Choisir un forfait</label>
+            <div class="forfaits">
+                <div class="forfait">
+                    <input type="radio" id="standard" name="forfait" value="standard" checked>
+                    <label for="standard">
+                        <strong>Standard</strong><br><p class="prix">Gratuit</p> 
+                        <ul>
+                            <li>Accès à notre agent de recherche de loi</li>
+                            <li>Accès à notre outil de recherche des avocats près de vous</li>
+                        </ul>
+                    </label>
+                </div>
+
+                <div class="forfait">
+                    <input type="radio" id="premium" name="forfait" value="premium">
+                    <label for="premium">
+                        <strong>Premium</strong><br><p class="prix">49.00 DT/mois</p> 
+                        <ul>
+                            <li>Accès à notre modèle de langage sur la loi</li>
+                            <li>Accès à 79ou9i Academy</li>
+                        </ul>
+                    </label>
+                </div>
+            </div>
+
+            <button type="button" class="credit-card-btn">Ajouter une carte de crédit</button>
+            <button type="submit">S'inscrire</button>
+        </form>
+    </div>
+    <script src="signupscripts.js"></script>
+</body>
+</html>

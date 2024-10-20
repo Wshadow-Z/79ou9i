@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f2f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.signup-container {
+    background-color: #e5e8ea;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 350px;
+}
+
+.logo {
+    width: 150px;
+    margin-bottom: 0px;
+}
+
+h2 {
+    color: #2b3a42;
+    margin-bottom: 20px;
+}
+
+input, select {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.forfaits {
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+.forfait {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.forfait label {
+    display: block;
+    cursor: pointer;
+}
+
+.forfait input {
+    margin-right: 10px;
+}
+
+ul {
+    margin-left: 20px;
+    font-size: 14px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #1f4e66;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: #163d51;
+}
+
+.credit-card-btn {
+    background-color: rgba(32, 103, 147, 1);
+}
+
+.credit-card-btn:hover {
+    background-color: #479b8f;
+}
+.prix{
+    color: #479b8f; 
+}
